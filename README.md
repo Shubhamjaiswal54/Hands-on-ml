@@ -1,12 +1,12 @@
 # Hands-on-ml
 
-This repository contains Jupyter Notebook implementations of machine learning examples, exercises, and problem solutions, including a K-Means clustering solution applied to the Iris dataset.
+Jupyter Notebook implementations of machine learning examples, exercises, and problem solutions, including a K-Means clustering solution applied to the Iris dataset.
 
 ## Contents
 
-- **`chapter2.ipynb`**: Jupyter Notebook containing code examples and exercises for Chapter 2.
-- **`chapter3.ipynb`**: Jupyter Notebook containing code examples and exercises for Chapter 3.
-- **`KMeans.ipynb`**: Jupyter Notebook containing the problem solution for K-Means clustering using the Iris dataset.
+- `chapter2.ipynb` - Code examples and exercises for Chapter 2.
+- `chapter3.ipynb` - Code examples and exercises for Chapter 3.
+- `KMeans.ipynb` - Problem solution for K-Means clustering using the Iris dataset.
 
 ## Resources
 
